@@ -1,2 +1,1 @@
-# Curso-Henry
-Este es un repositorio del modulo 2 del Curso de Henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora .
